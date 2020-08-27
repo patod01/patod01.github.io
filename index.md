@@ -11,7 +11,7 @@
 - [Calculadora de vectores][1]
 - [Grafico 3D con producto cruz][2]
 - [Aplicacion de pizarra online][3]
-- [**Link Grupo de Telegram**][4]
+- [**Link Grupo de Telegram**][]
 
 ---
 
@@ -36,5 +36,5 @@ To-DO list:
 [1]: http://es.onlinemschool.com/math/assistance/vector/multiply1/
 [2]: https://www.geogebra.org/m/B6Uz5yWf
 [3]: https://awwapp.com/
-[]: https://t.me/tutoria_ea
+[4]: https://t.me/tutoria_ea
 [5]: https://sites.google.com/view/m4m4/
