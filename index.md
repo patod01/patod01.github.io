@@ -36,5 +36,5 @@ To-DO list:
 [1]: http://es.onlinemschool.com/math/assistance/vector/multiply1/
 [2]: https://www.geogebra.org/m/B6Uz5yWf
 [3]: https://awwapp.com/
-[4]: https://t.me/tutoria_ea
-[5]: https://sites.google.com/view/m4m4/
+[]: https://t.me/tutoria_ea
+[]: https://sites.google.com/view/m4m4/
