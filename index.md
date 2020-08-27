@@ -2,7 +2,7 @@
 
 ---
 
-# Site under development |[]m[5]|,
+# Site under development |[][5]m|,
 
 ---
 
